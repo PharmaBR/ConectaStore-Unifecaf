@@ -3,7 +3,7 @@
 Trabalho da disciplina **Data Structure Strategy and Implementation** (UniFECAF).
 Autor: Breno Silva de Abreu.
 
-**Vídeo pitch:** [LINK DO VÍDEO AQUI](https://youtu.be/)
+**Vídeo pitch:** https://www.loom.com/share/f60a02c1cca64805acb5230c7f46aafe
 
 ---
 
@@ -63,7 +63,7 @@ cerca de 16,5 TB, contra cerca de 214 MB da lista (ver resultados).
 Pré-requisito: Rust instalado via [rustup](https://rustup.rs).
 
 ```bash
-git clone <URL-DO-REPOSITÓRIO>
+git clone https://github.com/PharmaBR/ConectaStore-Unifecaf.git
 cd megastore
 cargo build --release
 cargo run --release -- demo
@@ -191,4 +191,4 @@ Leitura:
 
 ## 8. Vídeo pitch
 
-[LINK DO VÍDEO AQUI](https://youtu.be/)
+https://www.loom.com/share/f60a02c1cca64805acb5230c7f46aafe
